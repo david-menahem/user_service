@@ -1,0 +1,4 @@
+user_service:
+localhost: 8000
+database: user_service: 3307
+
